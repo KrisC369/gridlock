@@ -1,3 +1,6 @@
 [submodule "geo"]
 	path = geo
 	url = git://github.com/rutgerclaes/gridlock-geo.git
+[submodule "core"]
+	path = core
+	url = git://github.com/rutgerclaes/gridlock-core.git
