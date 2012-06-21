@@ -1,0 +1,3 @@
+[submodule "gridlock-geo"]
+	path = geo
+	url = git://github.com/rutgerclaes/gridlock-geo.git
