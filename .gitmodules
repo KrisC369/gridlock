@@ -4,3 +4,30 @@
 [submodule "core"]
 	path = core
 	url = git://github.com/rutgerclaes/gridlock-core.git
+[submodule "simulation"]
+	path = simulation
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-simulation.git
+[submodule "configuration"]
+	path = configuration
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-configuration.git
+[submodule "coordination"]
+	path = coordination
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-coordination.git
+[submodule "events"]
+	path = events
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-events.git
+[submodule "simulation-model-queue"]
+	path = simulation-model-queue
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-simulation-model-queue.git
+[submodule "routing"]
+	path = routing
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-routing.git
+[submodule "utilities-graph"]
+	path = utilities-graph
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-utilities-graph.git
+[submodule "utilities-osm"]
+	path = utilities-osm
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-utilities-osm.git
+[submodule "utilities-mongo"]
+	path = utilities-mongo
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-utilities-mongo.git

@@ -17,8 +17,6 @@
         <module>events</module>
         <module>routing</module>
         <module>simulation</module>
-        <module>gui</module>
         <module>coordination</module>
-        <module>log</module>
     </modules>
 </project>
