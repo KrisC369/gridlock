@@ -10,5 +10,5 @@ GridLock is divided in several modules.  The module structure is represented bot
     cd gridlock
     git submodule init
     git submodule update
-
-
+    mvn validate
+    mvn install
