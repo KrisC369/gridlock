@@ -18,7 +18,7 @@
 	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-kct12-events.git
 [submodule "simulation-model-queue"]
 	path = simulation-model-queue
-	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-kct12-simulation-model-queue.git
+	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-kct12-model-simulation-queue.git
 [submodule "routing"]
 	path = routing
 	url = ssh://git@dnetcode.cs.kuleuven.be:2222/gridlock-kct12-routing.git
