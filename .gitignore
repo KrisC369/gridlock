@@ -6,3 +6,5 @@
 
 # Netbeans configuration files
 */nb-configuration.xml
+/.settings/
+.project
